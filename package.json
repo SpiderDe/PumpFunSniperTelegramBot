@@ -19,7 +19,12 @@
   "homepage": "https://github.com/SpiderDe/PumpFunSniperTelegramBot#readme",
   "devDependencies": {
     "@types/node": "^22.14.1",
+    "@types/node-telegram-bot-api": "^0.64.8",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2",
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
