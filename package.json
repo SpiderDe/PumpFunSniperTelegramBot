@@ -1,0 +1,25 @@
+{
+  "name": "pumpfun_sniper_telegram_bot",
+  "version": "1.0.0",
+  "description": "This is Telegram bot to snipe meme coin on Pump.fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderDe/PumpFunSniperTelegramBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiderDe/PumpFunSniperTelegramBot/issues"
+  },
+  "homepage": "https://github.com/SpiderDe/PumpFunSniperTelegramBot#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

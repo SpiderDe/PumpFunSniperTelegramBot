@@ -1,0 +1,1 @@
+This is Telegram bot to snipe meme coin on Pump.fun
